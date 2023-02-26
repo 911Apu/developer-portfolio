@@ -23,7 +23,7 @@ font-size: 45px;
 nav{
     display: flex;
     justify-content: space-between;
-     margin: 10px 226px;
+     padding: 10px 226px;
 } 
 nav li{
     list-style: none;
